@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 25, 2019, 2:36:20 PM
+    Author     : KiaraVaz
+*/
+
+/* Styling for all the pages*/
+h1{
+  font-size: 45px;  
+}
+
+div {
+    font-size: 25px;
+    background-color: lightyellow;
+    color: black;
+    margin: 35px;
+    padding: 20px;
+    
+}
+
+body{
+    background-color: lightsteelblue;
+}
+
+input {
+  font-size: 25px;  
+  width: 15%;
+  height: 50px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
